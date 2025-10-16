@@ -1,5 +1,8 @@
 # About
-I'm a freelance web developer and a recent graduate in internet technologies. I specialize in building websites designed to impress and perform. While trained as a full-stack developer, my strong eye for detail has always drawn me towards the front-end and UI/UX design. I’ve been freelancing for the past four years, consistently maintaining a 5-star rating while working with clients across the globe. I’m currently focused on expanding my skillset and landing a full-time role.
+I'm a software engineer with four years of freelance experience, specializing in building websites designed to impress
+and perform. My background in full-stack development and strong eye for UI/UX design allow me to deliver high-quality,
+end-to-end solutions. I’ve collaborated with international clients across various industries, maintaining a consistent 5-star
+rating on Upwork. I’m currently focused on transitioning my freelance experience into a full-time role.
 
 # Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logoColor=white)](https://popara.dev) 
